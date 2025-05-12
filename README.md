@@ -1,0 +1,3 @@
+# 🧪 Data Quality Monitoring Pipeline
+
+Este projeto implementa um pipeline de monitoramento de qualidade de dados utilizando Apache Airflow...
