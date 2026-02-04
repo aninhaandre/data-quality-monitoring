@@ -51,16 +51,24 @@ data-quality-monitoring/
 ├── Dockerfile     # Containerização
 ├── requirements.txt
 └── README.md
+
 ▶️ Como Executar
+
 1️⃣ Clonar o repositório
+
 git clone https://github.com/aninhaandre/data-quality-monitoring.git
 cd data-quality-monitoring
+
 2️⃣ Criar ambiente virtual
+
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
+
 3️⃣ Instalar dependências
+
 pip install -r requirements.txt
+
 4️⃣ Executar validação
 python src/main.py
 
