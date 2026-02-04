@@ -1,6 +1,0 @@
-apache-airflow
-psycopg2-binary
-pandas
-sqlalchemy
-slack_sdk
-streamlit
