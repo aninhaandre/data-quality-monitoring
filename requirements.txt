@@ -1,0 +1,19 @@
+# Orquestração
+apache-airflow==2.8.1
+
+# Manipulação de dados
+pandas==2.2.0
+numpy==1.26.3
+
+# Banco de dados (PostgreSQL)
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.25
+
+# Variáveis de ambiente
+python-dotenv==1.0.1
+
+# Testes
+pytest==8.0.0
+
+# Logs e utilidades
+loguru==0.7.2
